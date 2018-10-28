@@ -2,6 +2,8 @@
 
 Visit https://www.kaggle.com/akshitagarwal10/predicting-fraud-unsupervised-deep-learning#
 
+(Please note this kernel is not yet complete)
+
 Made a kernel on kaggle to identify anomilies (faulty transactions or frauds) given a highly skewed credit card dataset. Tried multiple approaches:
  - Isolation forest, local outlier factor
  - Deep learning
